@@ -1,0 +1,11 @@
+jardim 5 5
+larea
+lplantas
+lferr
+planta bb c
+planta bc r
+avanca 1
+larea
+lplantas
+compra g
+lferr
